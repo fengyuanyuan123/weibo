@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="servlet-api">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/apache-tomcat-8.5.38/lib/servlet-api.jar!/" />
+      <root url="jar://$USER_HOME$/apache-tomcat-8.5.38/lib/jsp-api.jar!/" />
+      <root url="jar://$USER_HOME$/下载/commons-lang-2.6.jar!/" />
+      <root url="jar://$USER_HOME$/下载/jstl-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/下载/standard-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/下载/servlet&amp;jsp/tools/mysql-connector-java-5.1.16.zip!/mysql-connector-java-5.1.16/src" />
+    </SOURCES>
+  </library>
+</component>
